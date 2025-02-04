@@ -1,0 +1,10 @@
+# Python .gitignore
+__pycache__/
+*.pych
+*.pyo
+*.pyd
+*.db
+env/
+venv/
+.venv/
+.env
